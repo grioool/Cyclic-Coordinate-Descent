@@ -52,7 +52,7 @@ changes with lambda,
 o plot_coefficients(...), which produces plot showing the coefficient values as function
 of lambda parameter.
 
-### Task 3
+## Task 3
 The aim of this task is to conduct experiments in which we will evaluate the performance of the
 implemented method and compare it with the standard implementation of logistic regression
 without regularization.
@@ -66,3 +66,5 @@ and Balanced Accuracy (for a threshold of 0.5).
 - the performance of the two methods on real datasets using ROC AUC, Recall-Precision AUC,
 F-measure and Balanced Accuracy as the evaluation measures.
 - coefficient values obtained in these two methods
+
+# Instructions to run algorithm
