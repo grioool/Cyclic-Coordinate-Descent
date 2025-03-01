@@ -67,4 +67,11 @@ and Balanced Accuracy (for a threshold of 0.5).
 F-measure and Balanced Accuracy as the evaluation measures.
 - coefficient values obtained in these two methods
 
+# Requirements for code
+• Instructions to run algorithm (README)
+• Script, notebook to run the algorithm for new data
+• Documentation of the functions - docstrings
+• Readability of code and use of good practices for granularity of functions
+• Saving all files (plots, tables) used for the report in separate files
+
 # Instructions to run algorithm
